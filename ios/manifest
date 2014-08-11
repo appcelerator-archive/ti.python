@@ -14,4 +14,4 @@ name: python
 moduleid: ti.python
 guid: a2acaf03-9353-4cb9-9a10-cc0bcbbbe595
 platform: iphone
-minsdk: 1.7.2
+minsdk: 3.2.2.GA
